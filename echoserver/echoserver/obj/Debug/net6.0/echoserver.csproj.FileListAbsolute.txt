@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Codews\code\echoserver-csharp\echoserver\echoserver\bin\Debug\net6.0\echoserver.exe
+C:\Users\Administrator\Documents\Codews\code\echoserver-csharp\echoserver\echoserver\bin\Debug\net6.0\echoserver.deps.json
+C:\Users\Administrator\Documents\Codews\code\echoserver-csharp\echoserver\echoserver\bin\Debug\net6.0\echoserver.runtimeconfig.json
+C:\Users\Administrator\Documents\Codews\code\echoserver-csharp\echoserver\echoserver\bin\Debug\net6.0\echoserver.dll
+C:\Users\Administrator\Documents\Codews\code\echoserver-csharp\echoserver\echoserver\bin\Debug\net6.0\echoserver.pdb
+C:\Users\Administrator\Documents\Codews\code\echoserver-csharp\echoserver\echoserver\obj\Debug\net6.0\echoserver.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Codews\code\echoserver-csharp\echoserver\echoserver\obj\Debug\net6.0\echoserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Codews\code\echoserver-csharp\echoserver\echoserver\obj\Debug\net6.0\echoserver.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Codews\code\echoserver-csharp\echoserver\echoserver\obj\Debug\net6.0\echoserver.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Codews\code\echoserver-csharp\echoserver\echoserver\obj\Debug\net6.0\echoserver.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Codews\code\echoserver-csharp\echoserver\echoserver\obj\Debug\net6.0\echoserver.dll
+C:\Users\Administrator\Documents\Codews\code\echoserver-csharp\echoserver\echoserver\obj\Debug\net6.0\refint\echoserver.dll
+C:\Users\Administrator\Documents\Codews\code\echoserver-csharp\echoserver\echoserver\obj\Debug\net6.0\echoserver.pdb
+C:\Users\Administrator\Documents\Codews\code\echoserver-csharp\echoserver\echoserver\obj\Debug\net6.0\echoserver.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Codews\code\echoserver-csharp\echoserver\echoserver\obj\Debug\net6.0\ref\echoserver.dll
